@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools<br><br>HTML, CSS, JavaScript<br>Locomotive.js<br>Responsive Web Design<br>API Integration<br>C and Java</h3>
+<h3 align="left">🛠 Language and tools<br><br>HTML, CSS, JavaScript React Js<br>Locomotive.js<br>Responsive Web Design<br>API Integration<br>C and Java</h3>
 
 ###
 
